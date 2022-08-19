@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chuqin Geng"
 title_separator          : "-"
 name                     : &name "Chuqin Geng"
-description              : &description "personal description"
+description              : &description "PhD student at Mila"
 url                      : https://allengeng123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "allengeng123.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Chuqin Geng"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "allengeng123"
   google_plus      :
   keybase          :
   instagram        :
