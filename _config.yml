@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuqin Geng"
+title                    : "Chuqin Allen-Geng"
 title_separator          : "-"
-name                     : &name "Chuqin Geng"
+name                     : &name "Chuqin Allen-Geng"
 description              : &description "PhD student at Mila"
 url                      : https://allengeng123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chuqin Geng"
+  name             : "Chuqin Allen-Geng"
   avatar           : "profile.png"
   bio              : "PhD student at McGill University / Mila."
   location         : "Montreal, Canada"
