@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuqin Geng - PhD student at McGill University / MILA"
+title: "Chuqin Geng <small><small> - PhD student at McGill University / MILA <small><small>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,9 +19,7 @@ I am currently a PhD student at the Montreal Institute for Learning Algorithms (
 # Research interests
 
 * Theory of Deep learning and its applications in NN's robustness, verification and optimaztion;
-
 * Neuro-symbolic methods;
-
 * Geometric deep learning;
 
 
