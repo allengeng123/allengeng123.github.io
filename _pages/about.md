@@ -1,13 +1,13 @@
 ---
 permalink: /
-<!-- title: "Chuqin Allen-Geng <small> - PhD student at McGill University / MILA <small>" -->
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<!-- Chuqin Allen-Geng <small> - PhD student at McGill University / MILA <small> -->
 
 # <small> News <small>
 * <b>Novice Type Error Diagnosis with Natural Language Models</b> is accepted to APLAS <a href="https:">[Paper]</a>.
