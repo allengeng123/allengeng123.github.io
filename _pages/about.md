@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuqin Geng <small> - PhD student at McGill University / MILA <small>"
+title: "Chuqin Allen-Geng <small> - PhD student at McGill University / MILA <small>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
