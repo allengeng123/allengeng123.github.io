@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuqin Geng <small><small> - PhD student at McGill University / MILA <small><small>"
+title: "Chuqin Geng <small> - PhD student at McGill University / MILA <small>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-# News
+# <small> News <small>
 * <b>Novice Type Error Diagnosis with Natural Language Models</b> is accepted to APLAS <a href="https:">[Paper]</a>.
 
-# About me
+# <small> About me <small>
 
 I am currently a PhD student at the Montreal Institute for Learning Algorithms (MILA) and McGill University, supervised by [Xujie Si](https://www.cs.mcgill.ca/~xsi/) . My research interests include theory of deep learning, geometric deep learning, and neuro-symbolic methods.
 
-# Research interests
+# <small> Research interests <small>
 
 * Theory of Deep learning and its applications in NN's robustness, verification and optimaztion;
 * Neuro-symbolic methods;
@@ -24,7 +24,7 @@ I am currently a PhD student at the Montreal Institute for Learning Algorithms (
 
 
 
-# Education
+# <small> Education <small>
 
 🎓 **PhD in Computer Science** (2021-)
   *McGill University / MILA*
