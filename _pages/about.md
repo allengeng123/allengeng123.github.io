@@ -10,7 +10,7 @@ redirect_from:
 <!-- Chuqin Allen-Geng <small> - PhD student at McGill University / MILA <small> -->
 
 # <small> News <small>
-* <b>Novice Type Error Diagnosis with Natural Language Models</b> is accepted to APLAS 2022 <a href="[https](https://arxiv.org/abs/2210.03682):">[Paper]</a>.
+* <b>Novice Type Error Diagnosis with Natural Language Models</b> is accepted to APLAS 2022 <a href="https://arxiv.org/abs/2210.03682">[Paper]</a>.
 * <b>Identifying different student clusters in functional programming assignments: From quick learners to struggling students	</b> is accepted to SIGCSE TS 2023 <a href="https:">[Paper]</a>.
 * <b>Toward Reliable Neural Specifications</b> is submiited to ICLR 2023<a href="https:">[Paper]</a>.
 
