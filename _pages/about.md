@@ -11,8 +11,8 @@ redirect_from:
 
 # <small> News <small>
 * <b>Novice Type Error Diagnosis with Natural Language Models</b> is accepted to APLAS 2022 <a href="https://arxiv.org/abs/2210.03682">[Paper]</a>.
-* <b>Identifying different student clusters in functional programming assignments: From quick learners to struggling students	</b> is accepted to SIGCSE TS 2023 <a href="https:">[Paper]</a>.
-* <b>Towards Reliable Neural Specifications</b> is submiited to ICML 2023 <a href="https:">[Paper]</a>.
+* <b>Identifying different student clusters in functional programming assignments: From quick learners to struggling students	</b> is accepted to SIGCSE TS 2023 <a href="https://arxiv.org/abs/2301.02611">[Paper]</a>.
+* <b>Towards Reliable Neural Specifications</b> is submiited to ICML 2023 <a href="https://arxiv.org/abs/2210.16114">[Paper]</a>.
 
 # <small> About me <small>
 
@@ -27,7 +27,8 @@ I am currently a PhD student at the Montreal Institute for Learning Algorithms (
 
 
 # <small> Education <small>
- 🎓 **PhD in Computer Science** (2023-)
+  
+🎓 **PhD in Computer Science** (2023-)
   *University of Toronto (visiting)*
 
 🎓 **PhD in Computer Science** (2021-)
