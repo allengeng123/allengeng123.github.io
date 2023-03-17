@@ -27,6 +27,8 @@ I am currently a PhD student at the Montreal Institute for Learning Algorithms (
 
 
 # <small> Education <small>
+ 🎓 **PhD in Computer Science** (2023-)
+  *University of Toronto (visiting)*
 
 🎓 **PhD in Computer Science** (2021-)
   *McGill University / MILA*
