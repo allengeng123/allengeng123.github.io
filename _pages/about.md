@@ -12,7 +12,7 @@ redirect_from:
 # <small> News <small>
 * <b>Novice Type Error Diagnosis with Natural Language Models</b> is accepted to APLAS 2022 <a href="https://arxiv.org/abs/2210.03682">[Paper]</a>.
 * <b>Identifying different student clusters in functional programming assignments: From quick learners to struggling students	</b> is accepted to SIGCSE TS 2023 <a href="https://arxiv.org/abs/2301.02611">[Paper]</a>.
-* <b>Towards Reliable Neural Specifications</b> is accepted to ICML 2023 <a href="https://arxiv.org/abs/2210.16114">[Paper]</a> <b>[Oral], with a average score of 7.
+* <b>Towards Reliable Neural Specifications</b> is accepted to ICML 2023 [Oral] with a average score of 7 <a href="https://arxiv.org/abs/2210.16114">[Paper]</a> .
 * <b>Scalar Invariant Networks with Zero Bias</b> is submiited to ICCV 2023 <a href="https://arxiv.org/abs/2211.08486">[Paper]</a>.
   
 # <small> About me <small>
