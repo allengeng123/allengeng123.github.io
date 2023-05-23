@@ -1,5 +1,5 @@
 ---
-title: Identifying different student clusters in functional programming assignments: From quick learners to struggling students
+title: Identifying different student clusters in functional programming assignments
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
