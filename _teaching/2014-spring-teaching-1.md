@@ -8,7 +8,9 @@ date: 2022-01-01
 location: "McGill University, Canada"
 ---
 
-Conducted weekly office hours and tutorials, designed and graded exams, developed auto-graders for assignments, implemented mutation testing, and utilized Moss for plagiarism detection.
+* <b> Conducted weekly office hours and tutorials.
+* <b> Designed and graded exams, developed auto-graders for assignments, implemented mutation testing.
+* <b> Utilized Moss for plagiarism detection.
 
 Heading 1
 ======
