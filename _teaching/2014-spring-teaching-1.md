@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "COMP 302 Programming Languages and Paradigms"
 permalink: /teaching/2014-spring-teaching-1
-venue: "McGill University, Computer Science"
+venue: "McGill University, Department of Computer Science"
 date: 2022-01-01
 location: "McGill University, Canada"
 ---
