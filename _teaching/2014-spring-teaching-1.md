@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "McGill University, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conducted weekly office hours and tutorials, designed and graded exams, developed auto-graders for assignments, implemented mutation testing, and utilized Moss for plagiarism detection.
 
 Heading 1
 ======
