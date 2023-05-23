@@ -11,5 +11,3 @@ citation:
 ---
 
 
-[Download paper here]((https://arxiv.org/abs/2210.16114)
-
