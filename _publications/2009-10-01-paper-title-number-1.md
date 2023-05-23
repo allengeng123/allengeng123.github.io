@@ -1,5 +1,5 @@
 ---
-title: Novice Type Error Diagnosis with Natural Language Models is accepted to APLAS 2022
+title: Novice Type Error Diagnosis with Natural Language Models
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
