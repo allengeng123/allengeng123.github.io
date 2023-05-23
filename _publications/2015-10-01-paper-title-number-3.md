@@ -2,14 +2,23 @@
 title: Towards Reliable Neural Specifications
 collection: publications
 permalink: /publication/2023_07_23_towards_reliable_neural_specifications
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 date: 2023-07-23
 venue: ICML 2023 <span style="color:green;">(Oral presentation)</span>
 paperurl: (https://arxiv.org/abs/2210.16114)
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation:
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here]((https://arxiv.org/abs/2210.16114)
+
+Recommended citation:
+
+@misc{geng2023reliable,
+      title={Towards Reliable Neural Specifications}, 
+      author={Chuqin Geng and Nham Le and Xiaojie Xu and Zhaoyue Wang and Arie Gurfinkel and Xujie Si},
+      year={2023},
+      eprint={2210.16114},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
