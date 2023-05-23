@@ -1,5 +1,5 @@
 ---
-title: Identifying different student clusters in functional programming assignments
+title: Identifying Different Student Clusters in Functional Programming Assignments
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
