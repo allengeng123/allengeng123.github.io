@@ -2,7 +2,7 @@
 title: Towards Reliable Neural Specifications
 collection: publications
 permalink: /publication/2023_07_23_towards_reliable_neural_specifications
-<!-- excerpt: 'This paper is about the number 2. The number 3 is left for future work.' -->
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-07-23
 venue: ICML 2023 <span style="color:green;">(Oral presentation)</span>
 paperurl: (https://arxiv.org/abs/2210.16114)
