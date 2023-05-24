@@ -6,8 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<a href="https://github.com/allengeng123/allengeng123.github.io/blob/master/Academic_CV%20(2).pdf">
+  <button>My CV</button>
+</a>
 
-{% https://github.com/allengeng123/allengeng123.github.io/blob/master/Academic_CV%20(2).pdf %}
 
 
 <!-- Education
