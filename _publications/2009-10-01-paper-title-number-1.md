@@ -5,6 +5,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
 date: 2022-12-05
 venue: APLAS
-paperurl: https://arxiv.org/abs/2210.03682
+paperurl: 
 citation: 
 ---
