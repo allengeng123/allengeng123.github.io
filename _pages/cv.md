@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% https://github.com/allengeng123/allengeng123.github.io/blob/master/Academic_CV%20(2).pdf %}
+
 
 <!-- Education
 ======
