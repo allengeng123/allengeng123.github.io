@@ -1,8 +1,8 @@
 ---
-title: Automatic code generation using large language models
+title: Automatic Code Generation using Large Language Models
 collection: talks
 type: "PhD Comprehensive Exam"
-permalink: /talks/2014-03-01-talk-3
+permalink: 
 venue: McGill University
 date: 2022-09-30
 location: Montreal, Canada
