@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chuqin (Allen) Geng"
 title_separator          : "-"
 name                     : &name "Chuqin (Allen) Geng"
-description              : &description "PhD student at Mila"
+description              : &description "PhD student (visiting) at the University of Toronto; McGill University / MILA."
 url                      : https://allengeng123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "allengeng123.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chuqin (Allen) Geng"
   avatar           : "profile.png"
-  bio              : "PhD student at McGill University / Mila."
+  bio              : "PhD student (visiting) at the University of Toronto; McGill University / MILA."
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
