@@ -2,7 +2,7 @@
 title: Novice Type Error Diagnosis with Natural Language Models
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: 
 venue: APLAS
 date: 2022-12-05
 location: Auckland, New Zealand
