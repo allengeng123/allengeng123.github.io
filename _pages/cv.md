@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="https://github.com/allengeng123/allengeng123.github.io/blob/master/Academic_CV%20(2).pdf" download>
+<a href="https://github.com/allengeng123/allengeng123.github.io/blob/master/Academic_CV___Allen___20260205.pdf" download>
   <button>My CV</button>
 </a>
 
