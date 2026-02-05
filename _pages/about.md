@@ -13,7 +13,7 @@ redirect_from:
 * <b>LogicXGNN: Grounded Logical Rules for Explaining Graph Neural Networks</b> is accepted to ICLR 2026 <span style="color:green;">(Top 2.5%)</span> <a href="https://openreview.net/forum?id=nqZe43tRY9">[Paper]</a>.
 * <b>Learning Minimal Neural Specifications</b> is accepted to NeuS 2025 <span style="color:green;">(Oral presentation)</span> <a href="https://neus-2025.github.io/files/papers/paper_10.pdf">[Paper]</a>.
 * <b>Towards Reliable Neural Specifications</b> is accepted to ICML 2023 <span style="color:green;">(Oral presentation)</span> <a href="https://icml.cc/virtual/2023/oral/25466">[Paper]</a>.
-* <b>Identifying different student clusters in functional programming assignments: From quick learners to struggling students	</b> is accepted to SIGCSE TS 2023 <a href="https://arxiv.org/abs/2301.02611">[Paper]</a>.
+* <b>Identifying different student clusters in functional programming assignments: From quick learners to struggling students	</b> is accepted to SIGCSE TS 2023 <a href="https://dl.acm.org/doi/10.1145/3545945.3569882">[Paper]</a>.
 
   
 # <small> About me <small>
