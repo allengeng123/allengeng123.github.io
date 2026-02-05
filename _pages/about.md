@@ -7,24 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Chuqin Allen-Geng <small> - PhD student at McGill University / MILA <small> -->
+<!-- Chuqin Allen-Geng <small> – PhD student (visiting) at the University of Toronto; McGill University / MILA <small> -->
 
 # <small> News <small>
-* <b>Two papers submitted to NeurIPS 2023.
+* <b>LogicXGNN: Grounded Logical Rules for Explaining Graph Neural Networks</b> is accepted to ICLR 2026 <span style="color:green;">(Top 2.5%)</span> <a href="https://openreview.net/forum?id=nqZe43tRY9">[Paper]</a>.
+* <b>Learning Minimal Neural Specifications</b> is accepted to NeuS 2025 <span style="color:green;">(Oral presentation)</span> <a href="https://neus-2025.github.io/files/papers/paper_10.pdf">[Paper]</a>.
 * <b>Towards Reliable Neural Specifications</b> is accepted to ICML 2023 <span style="color:green;">(Oral presentation)</span> <a href="https://arxiv.org/abs/2210.16114">[Paper]</a>.
 * <b>Identifying different student clusters in functional programming assignments: From quick learners to struggling students	</b> is accepted to SIGCSE TS 2023 <a href="https://arxiv.org/abs/2301.02611">[Paper]</a>.
-* <b>Novice Type Error Diagnosis with Natural Language Models</b> is accepted to APLAS 2022 <a href="https://arxiv.org/abs/2210.03682">[Paper]</a>.
+
   
 # <small> About me <small>
 
-I am currently a PhD student at the Montreal Institute for Learning Algorithms (MILA) and McGill University, supervised by [Xujie Si](https://www.cs.mcgill.ca/~xsi/) . My research interests include theory of deep learning, geometric deep learning, and neuro-symbolic methods.
+I am a final-year PhD student currently based at the University of Toronto, where I have been visiting since 2023 after my supervisor, [Prof. Xujie Si] (https://www.cs.mcgill.ca/~xsi/)
+, joined UofT. I am formally affiliated with McGill University and the Montreal Institute for Learning Algorithms (MILA). 
+
+My research interests include explainable AI, neuro-symbolic methods, and neural network robustness and verification.
 
 # <small> Research interests <small>
 
-* Theory of Deep learning and its applications in NN's robustness, verification and optimaztion;
+* Explainable AI; mechanistic interpretability and circuits;
 * Neuro-symbolic methods;
-* Geometric deep learning;
-
+* Neural network robustness and verification;
 
 
 # <small> Education <small>
