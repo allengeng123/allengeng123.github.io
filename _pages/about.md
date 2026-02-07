@@ -18,7 +18,7 @@ redirect_from:
   
 # <small> About me <small>
 
-I am a final-year PhD student currently based at the University of Toronto, where I have been visiting since 2023 after my supervisor, [Xujie Si](https://www.cs.toronto.edu/~six/), joined UofT. I am formally affiliated with McGill University and the Montreal Institute for Learning Algorithms (MILA). 
+I am a final-year PhD student currently based at the University of Toronto, where I have been visiting since 2023 after my supervisor, [Xujie Si](https://www.cs.toronto.edu/~six/), joined UofT. I am formally affiliated with McGill University and the Montreal Institute for Learning Algorithms (MILA). My CV can be downloaded [here](https://github.com/allengeng123/allengeng123.github.io/blob/master/Academic_CV___Allen___20260206.pdf).
 
 
 # <small> Research interests <small>
