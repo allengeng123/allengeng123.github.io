@@ -12,11 +12,3 @@ location: "McGill University, Canada"
 * Designed and graded exams, developed auto-graders for assignments, implemented mutation testing.
 * Utilized Moss for plagiarism detection.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
