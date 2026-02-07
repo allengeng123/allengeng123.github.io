@@ -24,7 +24,7 @@ My research interests include explainable AI, neuro-symbolic methods, and neural
 
 # <small> Research interests <small>
 
-* Explainable AI; mechanistic interpretability and circuits;
+* Explainable AI; Mechanistic interpretability and circuits;
 * Neuro-symbolic methods;
 * Neural network robustness and verification;
 
