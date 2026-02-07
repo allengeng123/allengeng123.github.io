@@ -20,7 +20,6 @@ redirect_from:
 
 I am a final-year PhD student currently based at the University of Toronto, where I have been visiting since 2023 after my supervisor, [Xujie Si](https://www.cs.toronto.edu/~six/), joined UofT. I am formally affiliated with McGill University and the Montreal Institute for Learning Algorithms (MILA). 
 
-My research interests include explainable AI, neuro-symbolic methods, and neural network robustness and verification.
 
 # <small> Research interests <small>
 
