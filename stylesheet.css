@@ -57,8 +57,13 @@ h1 {
   color: #555;
 }
 
+.paperlink {
+  color: #1772d0;
+  font-weight: 600;
+}
+
 .oral {
-  color: #1a7f37;
+  color: #d1242f;
   font-weight: 700;
 }
 
