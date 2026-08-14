@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #222;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+strong {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  margin: 0;
+  font-weight: normal;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 22px;
+}
+
+.papertitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.name {
+  padding-top: 20px;
+  margin: 0;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 32px;
+}
+
+.venue {
+  color: #555;
+}
+
+.oral {
+  color: #1a7f37;
+  font-weight: 700;
+}
+
+.colored-box {
+  color: black;
+  padding: 20px;
+  display: inline-block;
+  border-radius: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.news-item {
+  margin-bottom: 6px;
+}
+
+.footer {
+  text-align: center;
+  color: #888;
+  font-size: 12px;
+  padding: 24px 0;
+}
