@@ -20,6 +20,13 @@ a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 17px;
   line-height: 1.5;
+}
+
+body,
+td,
+th,
+tr,
+p {
   color: #222;
 }
 
@@ -58,7 +65,7 @@ h1 {
 }
 
 .paperlink {
-  color: #1772d0;
+  color: #1772d0 !important;
   font-weight: 600;
 }
 
