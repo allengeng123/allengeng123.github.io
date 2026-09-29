@@ -47,6 +47,11 @@ h1 {
   font-size: 26px;
 }
 
+.contribution-note {
+  margin: 5px 0 0;
+  font-size: 15px;
+}
+
 .papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 17px;
